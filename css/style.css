@@ -1,0 +1,97 @@
+/* Resetando as configurações iniciais da página ! */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family:'Comic Neue', cursive; /* Fonte 'Comic Neue' importada do fonts.google */
+    font-weight: 400;
+}
+
+/* Background, fonte da página e cor das letras ! */
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Configurações do Header ! */
+header {
+    position: fixed;
+    top: 0;
+    background: black;
+    width: 100%;
+}
+
+/* Icone da Nav ! */
+.nav_icon {
+    width: 100px; 
+    height: auto; /* tamanho auto vai fazer com que se adeque ao width */
+    position: absolute; /* Posicionamento absoluto em relação a nav */
+    left: 25px;
+    top: 10px;
+}
+
+/* Configuração da Nav bar e listas ! */
+.navbar {
+    padding: 50px;
+    text-align: center;
+    position: relative; /* Tudo dentro da nave é relativo a ela */
+}
+
+.navbar ul li {
+    display: inline; /* Modificar as Uls que estavam em blocos, para uma mesma linha ! */
+    font-size: 24px;
+    margin-left: 20px;
+} 
+
+.navbar ul li a {
+    color: white; 
+    border: 1px solid white;
+    padding: 5px 5px;
+    transition: 0.3s;
+}
+
+/* Animação 'hover' para deixar mais interativo ao posicionar o mouse sobre os links da nav bar ! */
+.navbar ul li a:hover{
+    color: black;
+    background: white;
+    transition: 0.3s;
+}
+
+/* Imagem do plano de fundo em 100% de um lado a outro ! */
+main {
+    margin-top: 50px;
+}
+.background_image {
+    width: 100%;
+}
+.titulo1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+p {
+    font-size: 25px;
+    padding: 30px;
+}
+.listahq li a {
+    color: white;
+}
+/* Fixar o Icone do whatsapp em página ! */
+.whatsapp {
+    width: 60px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: 0.5s;
+}
+
+/* Adicionando a "mãozinha do Mickey" ao passar por cima do icone do Whatsapp ! */
+.whatsapp:hover {
+   cursor: pointer;
+}
+/* Footer ! */
+footer {
+    font-weight: 700;
+}
