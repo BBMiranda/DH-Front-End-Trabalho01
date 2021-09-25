@@ -1,6 +1,8 @@
 # Front End I - Projeto 01
-- Professor Rafael Simas e Thiago Damasceno
-- Entregue dia 20/06/2021
+- Professor Rafael Simas, Thiago Damasceno, Willian Sant Anna. 
+- Entregue dia 25/09/2021
+
+https://bbmiranda.github.io/DH-Front-End-Trabalho01/
 
 Olá. Houser, tudo bem ?
 Hoje você tem uma missão muito importante e o mundo conta com você!
