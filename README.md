@@ -27,31 +27,6 @@ Você deverá desenvolver uma página web, o tema é livre porém nós temos alg
     15. Faça hospedagem no git pages.
     16. Disponibilize o link no canal proj-front até a nossa próxima aula.
 
-    
-4- 
-
-5- 
-
-7- 
-
-8- 
-
-9- 
-
-10- 
-
-11- 
-
-12- 
-
-13-
-
-14- 
-
-15- 
-
-16- 
-
-17-
+<hr>
 
 Explore sua criatividade pois você é capaz de concluir este projeto.
